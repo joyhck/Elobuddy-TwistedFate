@@ -1,0 +1,13 @@
+E:\Users\smart\Desktop\Elobuddy - TwistedFate\bin\Release\GuTenTak_Sivir.exe.config
+E:\Users\smart\Desktop\Elobuddy - TwistedFate\obj\Debug\GuTenTak_Sivir.exe
+E:\Users\smart\Desktop\Elobuddy - TwistedFate\obj\Debug\GuTenTak_Sivir.pdb
+E:\Users\smart\Desktop\Elobuddy - TwistedFate\bin\Release\GuTenTak_Sivir.exe
+E:\Users\smart\Desktop\Elobuddy - TwistedFate\bin\Release\GuTenTak_Sivir.pdb
+E:\Users\smart\Desktop\Elobuddy - TwistedFate\bin\Release\EloBuddy.dll
+E:\Users\smart\Desktop\Elobuddy - TwistedFate\bin\Release\EloBuddy.SDK.dll
+E:\Users\smart\Desktop\Elobuddy - TwistedFate\bin\Release\SharpDX.Direct3D9.dll
+E:\Users\smart\Desktop\Elobuddy - TwistedFate\bin\Release\SharpDX.dll
+E:\Users\smart\Desktop\Elobuddy - TwistedFate\bin\Release\Newtonsoft.Json.dll
+E:\Users\smart\Desktop\Elobuddy - TwistedFate\bin\Release\EloBuddy.Sandbox.dll
+E:\Users\smart\Desktop\Elobuddy - TwistedFate\obj\Debug\GuTenTak_Sivir.Properties.Resources.resources
+E:\Users\smart\Desktop\Elobuddy - TwistedFate\obj\Debug\GuTenTak_TwistedFate.csproj.GenerateResource.Cache
